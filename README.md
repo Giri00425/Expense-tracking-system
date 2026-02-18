@@ -22,6 +22,6 @@ spending patterns using charts.
 
 ### Step 1: Install Required Libraries
 ```bash
-pip install pandas matplotlib
+pip install pandas and  matplotlib
 
 
